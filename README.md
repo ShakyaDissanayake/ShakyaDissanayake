@@ -27,30 +27,9 @@ I enjoy taking ideas beyond notebooks: designing pipelines, integrating models w
 | **Languages** | Python, C++ |
 | **AI & Computer Vision** | PyTorch, YOLO, SAM, OpenCV, object tracking, pose estimation, depth estimation |
 | **LLMs & Agents** | LangChain, LangGraph, RAG, GraphRAG, tool-using agents |
-| **Data & Infrastructure** | Neo4j, Redis, Celery, Linux |
+| **Data & Infrastructure** | Neo4j, Redis, Linux, AWS, GCP |
 | **Real-time AI** | Whisper, WebRTC |
 
-## Selected engineering experience
-
-> Selected examples of work on commercial projects. Proprietary code and client data are not published here.
-
-- **Industrial computer vision:** Developed detection, segmentation, and tracking workflows for continuous measurements in a manufacturing setting.
-- **3D object understanding:** Contributed to a pipeline combining object detection, segmentation, depth estimation, and 3D reconstruction for volume estimation.
-- **AI-assisted ML workflows:** Helped integrate agentic orchestration into model-training and evaluation workflows, allowing natural-language interaction with ML processes.
-- **Patient-monitoring computer vision:** Worked on real-time detection, pose tracking, and alerting workflows.
-- **Enterprise knowledge systems:** Built GraphRAG-based retrieval over structured and unstructured information, and worked on low-latency conversational AI using speech technologies.
-
-## Featured public projects
-
-### [🤖 Reinforcement Learning Maze Solver](https://github.com/ShakyaDissanayake/RL-Maze-Solving-Robot)
-A PyTorch-based Deep Q-Network (DQN) agent for maze navigation and obstacle avoidance in a grid environment, with reward and path visualizations.
-
-**Keywords:** Reinforcement Learning · DQN · PyTorch · Python
-
-### [🧬 Conway's Game of Life](https://github.com/ShakyaDissanayake/Game-Of-Life-With-MPI4PY)
-A cellular automata simulation with a Python GUI and GPU acceleration, as described in the public repository.
-
-**Keywords:** Parallel Computing · Python · CUDA · Simulation
 
 ## What I'm exploring
 
@@ -58,20 +37,11 @@ A cellular automata simulation with a Python GUI and GPU acceleration, as descri
 - Efficient computer vision pipelines and edge AI
 - Deployable AI applications with clear performance metrics
 
-## GitHub activity
-
-<div align="center">
-
-![GitHub contributions](https://github-readme-stats.vercel.app/api?username=ShakyaDissanayake&show_icons=true&hide_border=true&theme=transparent)
-
-</div>
 
 ## Connect
 
 - **GitHub:** [@ShakyaDissanayake](https://github.com/ShakyaDissanayake)
-- **LinkedIn:** Add your verified profile URL here
-- **Email:** Add your preferred professional email here
+- **LinkedIn:** [@ShakyaDissanayake](www.linkedin.com/in/shakyadissanayake)
+- **Email:** [@shakyaanuraj69@gmail.com](shakyaanuraj69@gmail.com)
 
 ---
-
-*Interested in building AI systems that solve real problems.*
